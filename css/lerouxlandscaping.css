@@ -1,0 +1,17 @@
+
+.navbar-default{
+  background: #fff;
+  border-bottom: solid px #ccc;
+}
+
+.main-logo .lrl-logo{
+  max-width: 12% !important;
+
+}
+
+.navbar-default .nav>li>a, .navbar-default .nav>li>a:focus,
+#homeHeading {
+    color: #000;
+}
+
+
